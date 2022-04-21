@@ -1,1 +1,1 @@
-# C-Boot-Camp
+# C++-Boot-Camp
